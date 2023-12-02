@@ -2,20 +2,20 @@
 // 定义存放图片链接的数组
 const imageGroups = {
   'background_mobile': [
-  'https://github.com/shiraayano/img-api/blob/main/background_mobile/104531347_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_mobile/111058829_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_mobile/111635936_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_mobile/71684890_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_mobile/82869627_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_mobile/104531347_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_mobile/111058829_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_mobile/111635936_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_mobile/71684890_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_mobile/82869627_p0.jpg',
   ],
   'background_tablet': [
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/109838747_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/111317868_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/112052605_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/67638415_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/70844305_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/96781044_p0.jpg',
-  'https://github.com/shiraayano/img-api/blob/main/background_tablet/99142869_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/109838747_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/111317868_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/112052605_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/67638415_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/70844305_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/96781044_p0.jpg',
+  'https://github.com/shiraayano/img-api/raw/main/background_tablet/99142869_p0.jpg',
   ],
   'background_pc': [
   'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/3/100783147_p0.png',
