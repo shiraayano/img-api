@@ -2,24 +2,20 @@
 // 定义存放图片链接的数组
 const imageGroups = {
   'background_mobile': [
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/102996140_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/66343936_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/67280596_p0.png',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/67506480_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/78104901_p0.png',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/80468767_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/81731861_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/85819594_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/89893271_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/90945887_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/1/94755985_p0.png'
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_mobile/104531347_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_mobile/111058829_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_mobile/111635936_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_mobile/71684890_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_mobile/82869627_p0.jpg',
   ],
   'background_tablet': [
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/2/109034541_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/2/109213534_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/2/109509425_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/2/58733791_p0.jpg',
-  'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/2/70626212_p0.jpg'
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/109838747_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/111317868_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/112052605_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/67638415_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/70844305_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/96781044_p0.jpg',
+  'https://github.com/shiraayano/img-api/blob/shiraayano-patch-1/background_tablet/99142869_p0.jpg',
   ],
   'background_pc': [
   'https://github.com/shiraayano/ChangeWallpaper/raw/main/img/3/100783147_p0.png',
