@@ -10,6 +10,6 @@
 
 ## JS 版本
 
-- **文件**: `main.js`
+- **文件**: `works.js`
 - **使用方法**: 代码粘贴到 Cloudflare Workers 即可
 - **视频教程**: [Bilibili 视频教程](https://www.bilibili.com/video/BV1Qb4y1K7JV/)
